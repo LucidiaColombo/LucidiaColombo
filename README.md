@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Olá! Eu sou a Lucidia Colombo
+Sou aluna do projeto Elas na Tech
 <!--
 **LucidiaColombo/LucidiaColombo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
